@@ -1,0 +1,9 @@
+{
+    "method": "me",
+    "format": "%name%: %msg%",
+    "watch": [
+        {
+            "id": 23555200
+        }
+    ]
+}
